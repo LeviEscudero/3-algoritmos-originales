@@ -1,4 +1,4 @@
-Algoritmo CalculateDiscountedPrice
+Algoritmo calculateDiscountedPrice
     // Input Original price and discount percentage
     Escribir "Enter the original price:"
     Leer originalPrice
