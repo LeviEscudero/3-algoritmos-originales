@@ -1,4 +1,4 @@
-Algoritmo BulkPurchaseDiscount
+Algoritmo bulkPurchaseDiscount
     // Input Price per item and quantity
     Escribir "Enter the price per item:"
     Leer pricePerItem
