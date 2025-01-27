@@ -1,4 +1,4 @@
-Algoritmo ApplyTaxBasedOnPrice
+Algoritmo applyTaxBasedOnPrice
     // Input Price of the product
     Escribir "Enter the price of the product:"
     Leer price
